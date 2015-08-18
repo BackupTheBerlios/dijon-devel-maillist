@@ -1,0 +1,19 @@
+From fabrice.colin at gmail.com  Thu Feb 15 10:04:12 2007
+From: fabrice.colin at gmail.com (Fabrice Colin)
+Date: Thu, 15 Feb 2007 17:04:12 +0800
+Subject: [Dijon-devel] Goals
+Message-ID: <6538c8c80702150104y229e7ad6k966fbf4a831ba060@mail.gmail.com>
+
+I see the main goals of Dijon as being to :
+
+- faciliate code sharing between desktop indexing systems
+
+- provide toolkit neutral implementations of the Wasabi specs
+
+Since J-F and I started this, and that both Recoll and Pinot's code bases are
+GPL'ed C++, this is what we chose for the filters, but it may make sense to
+opt for plain C and a different license for other bits and bobs.
+
+Fabrice
+
+
